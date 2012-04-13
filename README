@@ -1,0 +1,6 @@
+Text Correlation Tool
+circa 2009
+
+This is a Processing app which visualizes similarities and differences among and between two bodies of text.
+
+There is a lot of work to be done here - the code is provided as is, and is iunfortunately not ver well documented. Addition of comments, new features, and removal of embarassing errors is welcome and encouraged.
